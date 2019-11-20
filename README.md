@@ -36,7 +36,7 @@ Then configure the rules you want to use under the rules section.
 ```json
 {
     "rules": {
-        "latin-variable-names/rule-name": 2
+        "latin-variable-names/latin-name-only": 2
     }
 }
 ```
